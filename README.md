@@ -145,5 +145,5 @@ This project demonstrates the practical application of inferential statistics in
 
 ## Author
 
-**Name:** Devanshi Kanthariya
+ Devanshi Kanthariya
 
